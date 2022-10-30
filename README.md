@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mou887
+- 👋 Hi, I’m Moumita Dhar
 - 👀 I’m interested in web development, Artificial Intelligence
 - 🌱 I’m currently learning AI from Harvard's course CS50AI
 - 💞️ I’m looking to collaborate on web development and AI projects in Python Language
